@@ -38,7 +38,7 @@ Unit IV
 OpenCV (Using Python *** Maybe ***):
 
 Unit V
-Databases (Using Python *** Maybe ***):
+Databases (Using Python, SQL *** Maybe ***):
 
 Unit VI
 Machine Learning Programs( Using Python *** Maybe ***):
@@ -48,7 +48,7 @@ Git Version Control
 
 Unit VIII
 Final Projects (Make and Test an experiment using what we've learned in this class)
-	
+
 Unit IX
 Extra Credit: Getting an Interesting Piece of Pi or Arduino code to work and make a Writeup of it???
 
