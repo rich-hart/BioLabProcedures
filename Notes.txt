@@ -1,0 +1,62 @@
+Lab 1 Create Data Stream, write it to a file???
+
+Why are data streams important???
+
+I almost want to just talk about data??? why is that??
+
+Why did this class seam easier when I though of it like that?
+Capturing data streams. 
+
+Graphics User interface....
+
+Python, Arduino, Raspberripi CommandLine
+
+Controlling When the datastream Readns and writes from arduino:
+
+
+
+Good article: 
+
+http://blog.newrelic.com/2014/06/03/10-secrets-learned-software-engineering-degree-probably-didnt/?utm_source=TBLA&utm_medium=content&utm_content=DegreeDidnt&utm_campaign=DevBlog&mpc=CN-TBLA-mobile-EN-Signup-Dev-DegreeDidnt
+
+Regular expressions,,,
+
+What are their goals??? What would be interesting to them??
+
+What would I want as a scientist?
+
+How to generate data easily, 
+
+How to save it into a convient format,
+
+How do I automate effectively?
+
+How do I set up quickly?
+
+How do I make it usefule for others and myself?
+
+
+J., B.,F.
+================
+F. Tool usage
+	CLI tools
+	IDEs
+	editors
+	
+
+I. Teamwork //maybe
+
+1. Warm Up
+D.
+
+J. Working from existing code...
+
+2. Setup Arduino
+
+Examples. Nothing, Blink
+
+
+3. 
+
+B. How to write
+

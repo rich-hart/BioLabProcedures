@@ -32,3 +32,4 @@ A. Lab1:
 	B1.  
 	a. Setup Arduino
 	
+Lab 2: Version Controll, 
