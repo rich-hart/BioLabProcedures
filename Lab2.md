@@ -24,3 +24,7 @@ Run And Counter should print in terminal.
 
 Discussion: 
   What is serial, and why does the program break when you use Serial.print('a') instead?
+
+What haooens when you turn off the python program, then turn it back on again?
+Does the program ever loose count?
+Where are the numbers being stored while the program is off?
