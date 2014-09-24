@@ -44,7 +44,8 @@ Unit VI
 Machine Learning Programs( Using Python *** Maybe ***):
 
 Unit VII
-Git Version Control 
+Git Version Control
+	Write a story in md
 
 Unit VIII
 Final Projects (Make and Test an experiment using what we've learned in this class)
