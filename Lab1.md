@@ -1,4 +1,4 @@
-Lab 1: 
+Lab1: 
 
 
 ##### Start Up Raspberrian Graphics User interface
